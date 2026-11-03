@@ -1,11 +1,20 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=38&duration=3000&pause=1000&color=0876C9&center=true&vCenter=true&width=950&height=80&lines=BANK+CUSTOMER+CHURN+PREDICTION" alt="BANK CUSTOMER CHURN PREDICTION" />
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=A%20Hypothetical%20Case%20Study%20for%20JPMorganChase&fontSize=23&fontColor=003B71&animation=fadeIn" alt="A Hypothetical Case Study for JPMorganChase" />
+
+  <br>
+
+  <strong>Author: Nguyen My San</strong>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=University%20of%20the%20Pacific&fontSize=24&fontColor=F47920&animation=fadeIn" alt="University of the Pacific" />
 </div>
 
-## A Hypothetical Case Study for JPMorganChase
-
-**Author:** Nguyen My San  
 
 ## 1. Project Overview
 
@@ -138,4 +147,4 @@ The Assignment Validation document is submitted separately according to course i
 
 - [Kaggle – Bank Churn Dataset](https://www.kaggle.com/competitions/playground-series-s4e1/data)
 
-c
+
