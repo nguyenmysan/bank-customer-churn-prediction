@@ -1,5 +1,6 @@
-
-# Bank Customer Churn Prediction
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=26&duration=3000&pause=1000&color=0876C9&center=true&vCenter=true&width=650&lines=Bank+Customer+Churn+Prediction" alt="Bank Customer Churn Prediction" />
+</div>
 ### A Hypothetical Case Study for JPMorganChase
 
 **Author:** Nguyen My San  
