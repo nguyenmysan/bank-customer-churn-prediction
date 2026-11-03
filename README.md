@@ -1,7 +1,9 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=26&duration=3000&pause=1000&color=0876C9&center=true&vCenter=true&width=650&lines=Bank+Customer+Churn+Prediction" alt="Bank Customer Churn Prediction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=38&duration=3000&pause=1000&color=0876C9&center=true&vCenter=true&width=950&height=80&lines=BANK+CUSTOMER+CHURN+PREDICTION" alt="BANK CUSTOMER CHURN PREDICTION" />
 </div>
-### A Hypothetical Case Study for JPMorganChase
+
+## A Hypothetical Case Study for JPMorganChase
 
 **Author:** Nguyen My San  
 
