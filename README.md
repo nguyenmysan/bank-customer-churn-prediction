@@ -135,14 +135,6 @@ Expected results: **165,034 observations**, **34,921 exited**, and **21.2% overa
 
 **Current status:** P1 EDA completed; model training is planned for the next phase.
 
-## 7. P1 Submission & Peer Validation
-
-The P1 PDF report will be stored in `docs/`.
-
-Peer validators should clone the repository, follow the setup instructions independently, run the analysis, and verify the expected results.
-
-The Assignment Validation document is submitted separately according to course instructions.
-
 ## References
 
 - [Kaggle – Bank Churn Dataset](https://www.kaggle.com/competitions/playground-series-s4e1/data)
